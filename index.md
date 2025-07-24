@@ -37,7 +37,7 @@ title: 九州臨床神経生理研究会 (仮)
 
 ### 日時：2025年8月30日(土) 11:00開始(予定)
 
-### 場所: web(teams予定)+大分大学挾間キャンパス（[大分県由布市挾間町医大ヶ丘1-1](https://maps.app.goo.gl/etMqT7D2v3e2Sr2F8)）
+### 場所: web(teams予定)+大分大学挾間キャンパス（[大分県由布市挾間町医大ヶ丘1-1](https://maps.app.goo.gl/etMqT7D2v3e2Sr2F8)）[基礎実習棟 (リンク先3番の棟)](https://www.med.oita-u.ac.jp/campus/map.html#annai-joho)310番(講演)、スキルラボセンター(ハンズオンセミナー)
 
 ## プログラム
 
