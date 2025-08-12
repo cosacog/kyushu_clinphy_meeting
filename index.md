@@ -44,8 +44,7 @@ title: 九州臨床神経生理研究会 (仮)
 
 [基礎実習棟 (リンク先3番の棟)](https://www.med.oita-u.ac.jp/campus/map.html#annai-joho)
 
-- 310番(講演)、
-- スキルラボセンター(ハンズオンセミナー)
+- 310番
 
 ## プログラム
 
