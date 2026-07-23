@@ -63,6 +63,4 @@
 |16:55 - 17:05|ビジネスミーティング|緒方勝也|
 |17:05|閉会||
 
-{% include program_table.md %}
-
 <div style="page-break-after: always"></div>
