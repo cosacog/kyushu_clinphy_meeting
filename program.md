@@ -4,15 +4,13 @@
 
 2026年8月22日(土) 11:00~
 
-## 開催場所：ハイブリッド開催: teams+福岡国際医療福祉大学福岡キャンパス2号館 (福岡市早良区百道浜２丁目４−１６)
-
-[map](https://maps.app.goo.gl/v5J7YdbX7EBCAYQaA)
+## 開催場所：ハイブリッド開催: teams+[福岡国際医療福祉大学福岡キャンパス2号館](https://maps.app.goo.gl/v5J7YdbX7EBCAYQaA) (福岡市早良区百道浜２丁目４−１６)
 
 - 会場：8階 (暫定)
 
 ### アクセス
 
-![map](./files/map_access_02.jpg)
+![map](./files/map_access_02.jpgmap_access_02.jpg)
 
 - 地下鉄でお越しの場合
   - 地下鉄空港線「西新」駅から西鉄バス約11分、「医師会館・ソフトリサーチパーク前」
