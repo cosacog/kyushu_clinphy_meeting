@@ -55,6 +55,7 @@ title: 九州臨床神経生理研究会
 ### 会場: web(teams)+福岡国際医療福祉大学 百道キャンパス 2号館（[福岡市早良区百道浜２－４－１６](https://maps.app.goo.gl/D3zVkGpGT58mkHaQ6)）
 
 - [交通アクセス](./access.md)
+- [アクセス(外部サイト)](https://fiuhw.takagigakuen.ac.jp/about/access/#:~:text=1号館・2号館へのアクセス)
 
 ## [プログラム](./program_short.md)
 
