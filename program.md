@@ -10,7 +10,7 @@
 
 ### アクセス
 
-![map](./files/map_access_02.jpgmap_access_02.jpg)
+![map](./files/map_access_02.jpg)
 
 - 地下鉄でお越しの場合
   - 地下鉄空港線「西新」駅から西鉄バス約11分、「医師会館・ソフトリサーチパーク前」
