@@ -12,6 +12,7 @@ title: 九州臨床神経生理研究会
 [更新履歴](./history.md)
 
 - 2026/7/24 プログラム発表しました
+- 2026/8/6 プログラム更新しました. pdf版になりました
 
 # 第37回 九州臨床神経生理研究会開催のご案内
 
@@ -52,13 +53,11 @@ title: 九州臨床神経生理研究会
 
 ### 日時：2026年8月22日(土) 11:00開始 (予定)
 
-### 会場: web(teams)+福岡国際医療福祉大学 百道キャンパス 2号館（[福岡市早良区百道浜２－４－１６](https://maps.app.goo.gl/D3zVkGpGT58mkHaQ6)）
-
-8階802号室
+### 会場: web(teams)+福岡国際医療福祉大学 百道キャンパス 2号館（[福岡市早良区百道浜２－４－１６](https://maps.app.goo.gl/D3zVkGpGT58mkHaQ6)）[8階802号室](./files/floor_map_8th.png)
 <!-- - [交通アクセス](./access.md) -->
 - [アクセス(外部サイト)](https://fiuhw.takagigakuen.ac.jp/about/access/#:~:text=1号館・2号館へのアクセス)
 
-## [プログラム](./program_short.md)
+## [プログラム](./files/program.pdf)
 
 ### 概要
 
