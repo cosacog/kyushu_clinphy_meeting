@@ -57,7 +57,7 @@ title: 九州臨床神経生理研究会
 <!-- - [交通アクセス](./access.md) -->
 - [アクセス(外部サイト)](https://fiuhw.takagigakuen.ac.jp/about/access/#:~:text=1号館・2号館へのアクセス)
 
-## [プログラム](./files/program.pdf)
+## [プログラム](./files/program_merged.pdf)
 
 ### 概要
 
